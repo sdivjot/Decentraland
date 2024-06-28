@@ -20,9 +20,9 @@ Blockchain is a suitable platform to handle Real-Estate sale purchase due to com
 ***
 ## *Client-Side Interface*
 
-**ReactJS:** Utilized for building a dynamic user interface, ensuring a smooth shopping experience, along with effective communication to the Metamask Chrome Extension.
+**ReactJS:** Utilized for building a dynamic user interface, ensuring a smooth user experience, along with effective communication to the Metamask Chrome Extension.
 
-**Ethers.js:** Web3 library used to communicate with the deployed smart contract and call its various functions to accomplish tasks such as listing and buying items.
+**Ethers.js:** Web3 library used to communicate with the deployed smart contract and call its various functions to accomplish tasks such as buying and approving real-estate sale.
 
 ***
 
